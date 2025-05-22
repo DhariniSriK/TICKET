@@ -1,0 +1,83 @@
+Ticket App
+1. Book Ticket
+2. View All Tickets
+3. View Ticket by ID
+4. Update Ticket
+5. Cancel Ticket
+6. Exit
+Enter choice: 1
+How many ticket do you want to book: 2
+
+Booking Ticket: 1
+Ticket ID: 1234
+Passenger Name: shankar
+Source: madurai
+Destination: chennai
+Travel Date: 23-05-2025
+
+Booking Ticket: 2
+Ticket ID: 1235
+Passenger Name: shreya
+Source: chennai
+Destination: delhi
+Travel Date: 25-05-2025
+
+ Ticket App
+1. Book Ticket
+2. View All Tickets
+3. View Ticket by ID
+4. Update Ticket
+5. Cancel Ticket
+6. Exit
+Enter choice: 2
+Ticket ID: 1234, Name: shankar, From: madurai, To: chennai, Date: 23-05-2025
+Ticket ID: 1235, Name: shreya, From: chennai, To: delhi, Date: 25-05-2025
+
+ Ticket App
+1. Book Ticket
+2. View All Tickets
+3. View Ticket by ID
+4. Update Ticket
+5. Cancel Ticket
+6. Exit
+Enter choice: 3
+Enter Ticket ID: 1234
+Ticket ID: 1234, Name: shankar, From: madurai, To: chennai, Date: 23-05-2025
+
+ Ticket App
+1. Book Ticket
+2. View All Tickets
+3. View Ticket by ID
+4. Update Ticket
+5. Cancel Ticket
+6. Exit
+Enter choice: 4
+Enter Ticket ID to update: 1235
+New Name: sri
+New Source: chennai
+New Destination: mumbai
+New Date: 27-05-2025
+Ticket updated.
+
+ Ticket App
+1. Book Ticket
+2. View All Tickets
+3. View Ticket by ID
+4. Update Ticket
+5. Cancel Ticket
+6. Exit
+Enter choice: 5
+Enter Ticket ID to cancel: 1234
+Ticket cancelled.
+
+ Ticket App
+1. Book Ticket
+2. View All Tickets
+3. View Ticket by ID
+4. Update Ticket
+5. Cancel Ticket
+6. Exit
+Enter choice: 6
+Exiting
+
+=== Code Execution Successful ===
